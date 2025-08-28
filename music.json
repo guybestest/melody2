@@ -1,0 +1,12 @@
+{
+  "songs": [
+    {
+      "id": "1",
+      "title": "Sanctuary",
+      "artist": "Joji",
+      "previewArt": "preview-art/SMITHEREENS.png",
+      "previewAudio": "preview-songs/Sanctuary_preview.mp3",
+      "full": "songs/Sanctuary.mp3"
+    }
+  ]
+}
